@@ -1,0 +1,66 @@
+.header {
+	border-bottom: 1px solid black;
+}
+
+.dpersonales {
+	text-indent: 50px;
+	border-top-style: : solid;
+	border-bottom: 1px solid black;
+
+}
+
+.dacademicos {
+	text-indent: 50px;
+	border-bottom: 1px solid black;
+
+}
+
+.todo {
+	font-family: "Arial";
+	width: 50%;
+	height: 100%;
+  	margin: 0 auto;
+    background-color: #FFFFFF; 
+
+}
+
+.tabla {
+	border-collapse: collapse;
+	border: 1px solid black;
+	width: 100%;
+
+}
+td {
+	border: 1px solid black;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.foto {
+	width: 5%;
+	position: absolute;
+	top: 15px;
+	right: 500px;
+}
+
+.nombre {
+	padding-top: 50px;
+}
+
+#putin {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 50px;
+	right: 25%;
+}
+
+.h {
+	width: 200px;
+	padding-left: 50px;
+}
+
+label {
+	display: inline-block;
+	width: 200px;
+}
